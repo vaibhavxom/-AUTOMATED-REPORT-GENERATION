@@ -19,7 +19,7 @@ This project generates a PDF report summarizing student scores from a CSV file. 
 1. Clone the repository:
     ```bash
     git clone https://github.com/vaibhavxom/AUTOMATED-REPORT-GENERATION.git
-    cd Banking-system
+    cd AUTOMATED-REPORT-GENERATION
     ```
 #
 2. Create a virtual environment (optional but recommended):
@@ -67,6 +67,10 @@ After running the application, a PDF report named report.pdf will be created in 
     - Highest score  
     - Lowest score
   A table listing each student's name and score
+# output  
+![image](https://github.com/user-attachments/assets/5b6365dd-63e1-48ac-8239-49196f3c1af5)
+
+
 # Troubleshooting
 Ensure that the data.csv file is correctly formatted and located in the project directory.
 If you encounter any issues, check the console for error messages.  
