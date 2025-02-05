@@ -71,11 +71,5 @@ After running the application, a PDF report named report.pdf will be created in 
 ![image](https://github.com/user-attachments/assets/5b6365dd-63e1-48ac-8239-49196f3c1af5)
 
 
-# Troubleshooting
-Ensure that the data.csv file is correctly formatted and located in the project directory.
-If you encounter any issues, check the console for error messages.  
-
-# License
-This project is licensed under the GNU 3 License.
 
 
